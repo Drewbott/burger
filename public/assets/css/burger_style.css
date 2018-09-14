@@ -1,0 +1,74 @@
+.appname {
+  text-align: center;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+h1 {
+  margin-top: 0px;
+}
+/* .burgersmade {
+  float: left;
+  margin-left: 150px;
+  background: white;
+  border: solid, light-grey, 5px;
+  padding: 5px;
+
+} */
+/* .burgerseaten {
+  float: left;
+  margin-right: 150px;
+  background: white;
+  border: solid, light-grey, 5px;
+  padding: 5px;
+
+} */
+.form-group {
+  text-align: center;
+}
+.subtitle-one {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+.subtitle-two {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+body {
+  background-color: #FBCB00;
+}
+
+li {
+    padding: 5px;
+    margin: 0px 300px;
+    background: #FBCB00;
+    text-align: center;
+
+  }
+  ul {
+    list-style-type: none;
+  }
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
